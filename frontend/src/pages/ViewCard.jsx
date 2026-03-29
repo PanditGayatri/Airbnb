@@ -304,6 +304,8 @@ function ViewCard() {
                                         <span>{total}</span>
                 
                                     </p>
+    
+                                    
  
                                 </div>
                                 
